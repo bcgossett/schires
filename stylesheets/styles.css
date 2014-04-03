@@ -6,4 +6,83 @@ div#container{
 	border: 4px solid blue; border-radius:15px;
 	margin-left:auto; Margin-right:auto;
 	background-color:grey;
+	padding:7px
 }
+
+div#header{
+	background-color:white;
+	width:800px; height:100px;
+	margin-left:auto; Margin-right:auto;
+	Border-radius:10px;
+}
+
+h1{text-align:center;
+font-size:90px;
+vertical-align: middle;
+line-height: 100px;
+margin:2px}
+
+div#navbox{margin-left:130px; Margin-right:60px;}
+nav {
+    text-align: justify;
+    min-width: 600px;
+}
+nav:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+nav {
+    display: inline-block;
+}
+
+div#content{
+
+}
+
+div#menu{
+	background-color:white;height:400px;width:100px; 
+	position:relative; left:0px; top:0px;
+	border-radius:10px; border:1px solid blue;
+	
+	
+}
+
+div.content{
+	background-color:#EEEEEE;height:300px;width:553px;
+	position:absolute; left: 300px; top:190px;
+	border-radius:10px; border: 1px solid blue;
+}
+
+div.content2{
+	background-color:#EEEEEE;height:300px;width:200px;
+	position:absolute; left: 875px; top:190px;
+	border-radius:10px; border: 1px solid blue;
+}
+
+div.content3{
+		background-color:#EEEEEE;height:79px;width:775px;
+	position:absolute; left: 300px; top:510px;
+	border-radius:10px; border: 1px solid blue;
+}
+
+div.content4{
+	background-color:#EEEEEE;height:400px;width:900px;
+	position:relative; left: 0px; top:10px;
+	border-radius:10px; border: 1px solid blue;
+}
+
+div.content5{
+		background-color:#EEEEEE;height:500px;width:440px;
+	position:relative; left: 0px; top:20px;
+	border-radius:10px; border: 1px solid blue; float:left;
+}
+
+div.content6{
+	background-color:#EEEEEE;height:500px;width:440px;
+	position:relative; left: 0px; top:20px;
+	border-radius:10px; border: 1px solid blue;float:left; margin-left:15px;
+}
+
+#footer{text-align:center;
+color:white;}
