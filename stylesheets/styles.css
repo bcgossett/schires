@@ -36,9 +36,6 @@ nav {
     display: inline-block;
 }
 
-div#content{
-
-}
 
 div#menu{
 	background-color:white;height:400px;width:100px; 
@@ -51,8 +48,10 @@ div#menu{
 div.content{
 	background-color:#EEEEEE;height:300px;width:553px;
 	position:relative; left: 120px; top:-403px;
-	border-radius:10px; border: 1px solid blue;
+	border-radius:10px; border: 1px solid blue; padding:10px;
+
 }
+
 
 div.content2{
 	background-color:#EEEEEE;height:300px;width:200px;
